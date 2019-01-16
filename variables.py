@@ -1,11 +1,11 @@
-i = 28;
+i = 28; #integer value
 print(f"i is {i}")
 
-f = 2.8;
+f = 2.8; #floating point value
 print(f"f is {f}")
 
-b = True;
+b = True; #bolean value
 print(f"b is {b}")
 
-n = none;
+n = None; #None type
 print(f"n is {n}")
